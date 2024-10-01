@@ -27,5 +27,19 @@ A data analyst take raw data, text, images and turn it into valuable insights. D
 - It helps to make decisions based on actual data rather than guess work
 - It helps in better allocation of resources
 - To identify inefficiency in processes leading to optimization and cost reduction
-- It allow businesses to prepare and strategize accordinglyy
+- It allow businesses to prepare and strategize accordingly
+
+### Pictures
+
+  ![Screenshot_20241001-095524](https://github.com/user-attachments/assets/be23c4a3-9260-4d14-b02b-39b6dd9d5f51)
   
+
+  ![Screenshot_20241001-095559](https://github.com/user-attachments/assets/f9a97152-693f-4b5e-818c-4e2611927400)
+  
+
+  ![Screenshot_20241001-095618](https://github.com/user-attachments/assets/17244bab-c288-4ded-affb-dfa60806b177)
+  
+
+  ![Screenshot_20241001-095657](https://github.com/user-attachments/assets/0577fab5-9ca2-4f28-bf7b-2c01a88f885d)
+
+
